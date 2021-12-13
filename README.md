@@ -2,7 +2,7 @@
 
 ## GrabCut
 
-The code below takes an input image and follows these steps:
+In this project we take an input image and follows these steps:
 - It requires a bounding box to be drawn by the user to roughly segment out the foreground pixels
 - It runs an initial min-cut optimization using the provided annotation
 - The result of this optimization gives an initial segmentation 
